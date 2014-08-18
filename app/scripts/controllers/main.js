@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name generatorAngularApp.controller:MainCtrl
+ * @name webAppApp.controller:MainCtrl
  * @description
  * # MainCtrl
- * Controller of the generatorAngularApp
+ * Controller of the webAppApp
  */
-angular.module('generatorAngularApp')
+angular.module('webAppApp')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',

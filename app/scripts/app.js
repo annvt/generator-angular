@@ -2,11 +2,11 @@
 
 /**
  * @ngdoc overview
- * @name generatorAngularApp
+ * @name webAppApp
  * @description
- * # generatorAngularApp
+ * # webAppApp
  *
  * Main module of the application.
  */
 angular
-  .module('generatorAngularApp', []);
+  .module('webAppApp', []);
